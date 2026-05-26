@@ -1,6 +1,6 @@
 #!/bin/sh
 
-branch=master
+branch=sfos
 version=1.4.5
 release=
 
